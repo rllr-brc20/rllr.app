@@ -6,9 +6,9 @@
 
 This is a 3D recursive ordinal (pre-inscription) created using the three.js, .gltf, and Draco compression libraries . It loads and displays multiple 3D models in a scene, applies lighting, and allows for interactive camera controls.
 
-### Code Sandbox -- https://codesandbox.io/s/satboy-v3-compressed-2sz79q
-
 ### Preview -- https://2sz79q.csb.app/
+
+### Code Sandbox -- https://codesandbox.io/s/satboy-v3-compressed-2sz79q
 
 ### Reference -- https://rllr.typedream.app/
 
