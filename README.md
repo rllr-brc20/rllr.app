@@ -17,7 +17,7 @@ This is a 3D recursive ordinal (not inscribed) created using the three.js, .gltf
 ## Features
 
 - Loads and displays 3D models in the GLTF format.
-- Traits are stitched together as one, simulating recursion.
+- Traits are stitched together to simulate recursive inscription.
 - Uses Draco compression for efficient model loading.
 - Configured with a 50mm motion picture camera perspective.
 - Provides lighting with a standard 3-point lighting setup.
