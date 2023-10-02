@@ -10,7 +10,7 @@ This is a 3D recursive ordinal (pre-inscription) created using the three.js, .gl
 
 ### Code Sandbox -- https://codesandbox.io/s/satboy-v3-compressed-2sz79q
 
-### Example -- https://rllr.typedream.app/
+### Use Case -- https://rllr.typedream.app/
 
 ### Reference -- https://github.com/metagood/OCM-Dimensions
 
